@@ -127,7 +127,6 @@ li::marker {
 }
 
 .preparation {
-  display: block;
   width: 100%;
   background-color: var(--rose-50);
   font: var(--paragraph-text);
